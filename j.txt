@@ -1,17 +1,16 @@
-<navbar>
-Features About us /  Pricing  ///  Feedback  ///<button> Request a demo</button>
-</navbar>
 <hero>
 
-	Web & Mobile 
-	Desight 
-	Development
+Web & Mobile 
+Desight 
+Development
 
-	Helps you to organize your income and expenses
+Helps you to organize your income and expenses
 
-	Try free demo
+Try free demo
 
-	- Web,iOs and Android
+- Web,iOs and Android
+
+
 </hero>
 //// process section 
 Our Process
