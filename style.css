@@ -122,9 +122,6 @@ navbar button {
     justify-content: space-around;
     width: 75%;
     
-}.services .cart div {
-    background-color: antiquewhite;
-    
 }
 .services .cart div {
     display: flex;
@@ -132,6 +129,10 @@ navbar button {
     justify-content: center;
     align-items: center;
     width: 30%;
+    background-color: rgb(148, 225, 248);
+}
+.services .cart div:hover {
+    background-color: rgb(230, 219, 76);
 }
 .services .cart img {
     width: 70px;
