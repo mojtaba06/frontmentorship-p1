@@ -1,0 +1,59 @@
+<navbar>
+Features About us /  Pricing  ///  Feedback  ///<button> Request a demo</button>
+</navbar>
+<hero>
+
+	Web & Mobile 
+	Desight 
+	Development
+
+	Helps you to organize your income and expenses
+
+	Try free demo
+
+	- Web,iOs and Android
+</hero>
+//// process section 
+Our Process
+Helps you to organize your income and expenses
+--
+Daily Standup
+lorem25
+--
+Weekly Syn, Meeting
+lorem25
+--
+User Testing
+lorem25 
+--
+//// mobile FEATURES Section
+FEATURES
+Mobile App
+lorem35
+//// Web FEATURES Section
+FEATURES
+Web Development
+lorem35 
+
+// 1 .Web devlopment button
+UI & UX Design
+lorem20 
+// 2 .Web devlopment button
+React & Vua JS
+lorem20 
+-------------------
+///User Entries Section 
+Sign uo first
+There Will be many benefits that you will get
+<button>SIGN UP NOW</button>
+------------------
+///footer section 
+Resource :
+Home , Who We Are , What We Do ? , Projects Delivery , Our Products
+--------
+Usefull Links : 
+Team , Blog , History , Contact us , Location 
+--------
+NEWSLETER 
+Over 25000 people have subscribed
+We dOn't Send you E-mail and Spam
