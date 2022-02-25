@@ -105,7 +105,7 @@ navbar button {
 .services {
     width: 100%;
     display: flex;
-    margin: 200px auto;
+    margin: 150px auto;
 }
 .services .main {
     width: 25%;
@@ -140,4 +140,17 @@ navbar button {
 }
 .services h3 {
     font-size: 22px;
+}
+
+/* app */
+.app .left {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+}
+.app .left img {
+    width: 100%;
+    height: auto;
 }
